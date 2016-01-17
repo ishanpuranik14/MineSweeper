@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=gstack(int)
+comment1.params=x
+comment1.target=void\ push(int)
+comment2.params=
+comment2.target=int\ pop()
+comment3.params=
+comment3.target=boolean\ empty()
+numComments=4
